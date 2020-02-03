@@ -1,0 +1,9 @@
+Features:  10
+
+The features are:  array('i', [9004, 3001, 27013, 999, 1000, 15007, 7003, 21010, 19009, 997])
+
+Accuracy:  66.425
+
+Predicted labels of the test data are saved in testLabels file
+
+Done everything

@@ -1,0 +1,59 @@
+Values of K = [10, 100, 1000, 10000]
+
+Reporting mean training error here for above k random hyper planes.
+The error tends to decrease with each increase in K hyper planes.
+
+Data File: ionosphere.data Training Label File: ionosphere.trainlabels.0
+
+Mean training error on original feature data cross validated 10 times is: 14.6 %
+Mean training error on new feature data for k= 10 planes cross validated 10 times is: 18.4%
+Mean training error on new feature data for k= 100 planes cross validated 10 times is: 9.5%
+Mean training error on new feature data for k= 1000 planes cross validated 10 times is: 9.3%
+Mean training error on new feature data for k= 10000 planes cross validated 10 times is: 5.7%
+
+
+Data File: breast_cancer.data Training Label File: breast_cancer.trainlabels.0
+
+Mean training error on original feature data cross validated 10 times is: 4.7%
+Mean training error on new feature data for k= 10 planes cross validated 10 times is: 37%
+Mean training error on new feature data for k= 100 planes cross validated 10 times is: 28%
+Mean training error on new feature data for k= 1000 planes cross validated 10 times is: 6.8%
+Mean training error on new feature data for k= 10000 planes cross validated 10 times is: 6.1%
+
+
+Data File: climate.data Training Label File: climate.trainlabels.0
+
+Mean training error on original feature data cross validated 10 times is: 4.3%
+Mean training error on new feature data for k= 10 planes cross validated 10 times is: 8.4%
+Mean training error on new feature data for k= 100 planes cross validated 10 times is: 8.9%
+Mean training error on new feature data for k= 1000 planes cross validated 10 times is: 9.2%
+Mean training error on new feature data for k= 10000 planes cross validated 10 times is: 5.1%
+
+
+Data File: hill_valley.data Training Label File: hill_valley.trainlabels.0
+
+Mean training error on original feature data cross validated 10 times is: 0.37%
+Mean training error on new feature data for k= 10 planes cross validated 10 times is: 49.8%
+Mean training error on new feature data for k= 100 planes cross validated 10 times is: 49.26%
+Mean training error on new feature data for k= 1000 planes cross validated 10 times is: 50.54%
+Mean training error on new feature data for k= 10000 planes cross validated 10 times is:38.77%
+
+
+Data File: micromass.data Training Label File: micromass.trainlabels.0
+
+Mean training error on original features cross validated 10 times is: 20.2%
+Mean training error on new features data for k= 10 planes cross validated 10 times is: 41.8%
+Mean training error on new features data for k= 100 planes cross validated 10 times is: 29.27%
+Mean training error on new features data for k= 1000 planes cross validated 10 times is: 21.59%
+Mean training error on new features data for k= 10000 planes cross validated 10 times is: 16.31%
+
+
+
+Data File: qsar.data Training Label File: qsar.trainlabels.0
+
+Mean training error on original features cross validated 10 times is: 14.11%
+Mean training error on new features data for k= 10 planes cross validated 10 times is: 33.72%
+Mean training error on new features data for k= 100 planes cross validated 10 times is: 28.97%
+Mean training error on new features data for k= 1000 planes cross validated 10 times is: 23.28%
+Mean training error on new features data for k= 10000 planes cross validated 10 times
+is:16.76%
